@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blogtrovert
+- 👋 Hi, I’m @onome
 - 👀 I’m a content creator
 - 🌱 I’m currently learning JavaScript and WordPress
 
